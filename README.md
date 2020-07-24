@@ -1,5 +1,4 @@
-# python_practice
-# Practicing python problems from several different textbooks.
+# Practicing python problems from several different sources
 
 ## Textbooks/Websites
 - http://projectpython.net/chapter00/
